@@ -1,4 +1,8 @@
-# geo_app
+# Geo App
+## Projeto desenvolvido na disciplina desenvovimento de aplicações para dispositivos móveis
+![image](https://github.com/LeonardoLuisKlein/geo_app/assets/106256199/393ae35a-b799-4589-bae3-34562e87188b)
+![image](https://github.com/LeonardoLuisKlein/geo_app/assets/106256199/43975335-eec1-44ff-a849-1e70caa848d1)
+
 
 A new Flutter project.
 
